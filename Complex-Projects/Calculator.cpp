@@ -83,6 +83,7 @@ class scientificCalculator              // Class for mathematical operations of 
         double calc_cbrt(double);
         double calc_x_power_y(double, double);
         double calc_nth_root(double, int);
+        
         long long calc_factorial(double);
 
         double calc_inverse(double);
