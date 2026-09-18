@@ -1,1 +1,1 @@
-This repository consists of simple, moderate, and complex projects, which are all written in C++ language.
+This repository consists of simple, moderate, and complex projects, which are written in C++ language.

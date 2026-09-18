@@ -5,7 +5,7 @@ This calculator has the following features:
 -> All operations from both simple and scientific calculator.
 -> Full proof error management
 -> Tons of versatility
--> Domain check for every trigonometric and inverse trigonometric functions.
+-> Domain check for required functions such as trigonometric, factorial, etc...
 -> Calculator keeps running and taking input from user until "end" is entered in place of first number.
 -> Good code reusability.
 */
